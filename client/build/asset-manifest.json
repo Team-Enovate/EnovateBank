@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13555074.css",
+    "main.js": "/static/js/main.4df02f21.js",
+    "static/media/carImage.jpg": "/static/media/carImage.2f9b509c88d98c7b4609.jpg",
+    "static/media/logo.png": "/static/media/logo.cdbe2e80139c88d7c695.png",
+    "static/media/bg_banner.jpg": "/static/media/bg_banner.efa41900d4649cc39648.jpg",
+    "index.html": "/index.html",
+    "main.13555074.css.map": "/static/css/main.13555074.css.map",
+    "main.4df02f21.js.map": "/static/js/main.4df02f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13555074.css",
+    "static/js/main.4df02f21.js"
+  ]
+}
